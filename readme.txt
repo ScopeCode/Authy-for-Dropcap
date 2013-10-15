@@ -1,4 +1,4 @@
-=== Authy for WordPress ===
+=== Authy for Dropcap ===
 Contributors: ethitter
 Tags: authentication, authy, two factor, security, login, authenticate
 Requires at least: 3.5
@@ -7,12 +7,12 @@ Stable tag: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add Authy two-factor authentication to WordPress. Users opt in for an added level of security that relies on random codes from their mobile devices.
+Add Authy two-factor authentication to Dropcap. Users opt in for an added level of security that relies on random codes from their mobile devices.
 
 == Description ==
-Enable the plugin, enter your [Authy](http://www.authy.com/) API keys, and your users can enable Authy on their accounts.
+Enable the module, enter your [Authy](http://www.authy.com/) API keys, and your users can enable Authy on their accounts.
 
-Once users configure Authy through their WordPress user profiles, any login attempts will require an Authy token in addition to the account username and password.
+Once users configure Authy through their Dropcap user profiles, any login attempts will require an Authy token in addition to the account username and password.
 
 For users with mobile devices that don't support the Authy app, they can receive their tokens via SMS.
 
